@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         Category shopping = new Category("Shopping");
         Category work = new Category("Work");
-
+//ldasfjldsajf
         User john = new User("John", 30);
         User jane = new User("Jane", 25);
 
